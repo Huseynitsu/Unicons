@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "CocoSharp";
+    src: url("cocosharpbold.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "CocoSharp";
+    src: url("cocosharpextrabold.ttf") format("truetype");
+    font-weight: 800;
+}
+@font-face {
+    font-family: "CocoSharp";
+    src: url("cocosharpregular.ttf") format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "CocoSharp";
+    src: url("cocosharplight.ttf") format("truetype");
+    font-weight: 100;
+}
